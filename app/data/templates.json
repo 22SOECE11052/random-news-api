@@ -1,0 +1,18 @@
+{
+  "sports": {
+    "breaking": [
+      "BREAKING: {person} injured during match at {place}"
+    ],
+    "normal": [
+      "{person} scores century at {place}"
+    ]
+  },
+  "politics": {
+    "breaking": [
+      "BREAKING: {person} announces new policy at {place}"
+    ],
+    "normal": [
+      "{person} addresses public at {place}"
+    ]
+  }
+}
